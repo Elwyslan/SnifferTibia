@@ -1,0 +1,16 @@
+Fri Jul 10 15:06:13 BRT 2015
+Julera: 250 players  *****  Média:250.0
+Dolera: 87 players  *****  Média:87.0
+Tenxebra: ERRO  *****  Média: ERRO
+Luminera: 314 players  *****  Média:314.0
+Inferna: 106 players  *****  Média:106.0
+Neptera: 207 players  *****  Média:207.0
+
+Fri Jul 10 15:16:14 BRT 2015
+Julera: 246 players  *****  Média:248.0
+Dolera: 87 players  *****  Média:87.0
+Tenxebra: ERRO  *****  Média: ERRO
+Luminera: 306 players  *****  Média:310.0
+Inferna: 102 players  *****  Média:104.0
+Neptera: 213 players  *****  Média:210.0
+
